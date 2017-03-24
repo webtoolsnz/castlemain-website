@@ -42,7 +42,7 @@
                     </h3>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 image" >
-                    <img src="images/alisterImage.png">
+                    <img src="images/AlisterImage.png">
                 </div>
             </div>
         </div>
