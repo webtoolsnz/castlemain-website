@@ -51,10 +51,10 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="<?= $activelink == 'index'?'active':'' ?>"><a href="index.php"><span>About</span></a> </li>
-                    <li class="<?= $activelink == 'services'?'active':'' ?>"><a href="services.php"><span>Services</span></a> </li>
-                    <li class="<?= $activelink == 'approach'?'active':'' ?>"><a href="approach.php"><span>Our Approach</span></a></li>
-                    <li class="<?= $activelink == 'contactus'?'active':'' ?>"><a href="contactus.php"><span>Contact Us</span></a> </li>
+                    <li class="<?= $activelink == 'index'?'active':'' ?>"><a href="index"><span>About</span></a> </li>
+                    <li class="<?= $activelink == 'services'?'active':'' ?>"><a href="services"><span>Services</span></a> </li>
+                    <li class="<?= $activelink == 'approach'?'active':'' ?>"><a href="approach"><span>Our Approach</span></a></li>
+                    <li class="<?= $activelink == 'contactus'?'active':'' ?>"><a href="contactus"><span>Contact Us</span></a> </li>
                 </ul>
             </div>
         </nav>
