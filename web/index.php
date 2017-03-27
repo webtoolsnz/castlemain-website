@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Castlemain Capital</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="js/modernizr-2.6.2.min.js"></script>
 
 
 

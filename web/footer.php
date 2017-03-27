@@ -25,7 +25,12 @@
     <div id="content"></div>
     <div id="footer"></div>
 </div>-->
-
+<!-- jQuery -->
+<script src="js/jquery.min.js"></script>
+<!-- Bootstrap -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jqBootstrapValidation.js"></script>
+<script src="js/main.js"></script>
 </body>
 </html>
 
