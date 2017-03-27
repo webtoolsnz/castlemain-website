@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fabaa3b-025c-4a4f-9aa8-1f6d35c90308" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/experience40.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/experience.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/experienceyrs.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/experience40.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/contactus.php" afterPath="$PROJECT_DIR$/web/contactus.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/style.css" afterPath="$PROJECT_DIR$/web/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.php" afterPath="$PROJECT_DIR$/web/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/services.php" afterPath="$PROJECT_DIR$/web/services.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,7 +46,7 @@
             <state relative-caret-position="545">
               <caret line="59" column="79" lean-forward="false" selection-start-line="59" selection-start-column="79" selection-end-line="59" selection-end-column="79" />
               <folding>
-                <marker date="1490574818000" expanded="true" signature="2634:2694" ph="..." />
+                <marker date="1490583063000" expanded="true" signature="2634:2694" ph="..." />
               </folding>
             </state>
           </provider>
@@ -68,15 +65,15 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="54" column="33" lean-forward="true" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+            <state relative-caret-position="112">
+              <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="experience40.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/images/experience40.png">
+      <file leaf-file-name="email.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/images/email.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -113,7 +110,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tie</find>
       <find>#header .navbar-brand img</find>
       <find>vali</find>
       <find>media</find>
@@ -143,6 +139,7 @@
       <find>screen and (max-width: 992px)</find>
       <find>castlemainlogo.png</find>
       <find>page-text</find>
+      <find>experience</find>
     </findStrings>
     <replaceStrings>
       <replace>section-header section-header-med</replace>
@@ -183,9 +180,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1863" />
-    <option name="y" value="-17" />
-    <option name="width" value="1460" />
+    <option name="x" value="-1821" />
+    <option name="y" value="565" />
+    <option name="width" value="774" />
     <option name="height" value="872" />
   </component>
   <component name="ProjectView">
@@ -342,18 +339,18 @@
       <updated>1490048962250</updated>
       <workItem from="1490048963541" duration="1949000" />
       <workItem from="1490051565915" duration="110480000" />
-      <workItem from="1490578308147" duration="1912000" />
+      <workItem from="1490578308147" duration="3155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114341000" />
+    <option name="totallyTimeSpent" value="115584000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1863" y="-17" width="1460" height="872" extended-state="0" />
+    <frame x="-1821" y="565" width="774" height="872" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21438356" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40439278" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -404,7 +401,7 @@
         <state relative-caret-position="795">
           <caret line="53" column="71" lean-forward="true" selection-start-line="53" selection-start-column="71" selection-end-line="53" selection-end-column="71" />
           <folding>
-            <marker date="1490574818000" expanded="true" signature="2634:2694" ph="..." />
+            <marker date="1490583063000" expanded="true" signature="2634:2694" ph="..." />
           </folding>
         </state>
       </provider>
@@ -533,11 +530,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/email.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/images/mail.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -624,7 +616,7 @@
         <state relative-caret-position="545">
           <caret line="59" column="79" lean-forward="false" selection-start-line="59" selection-start-column="79" selection-end-line="59" selection-end-column="79" />
           <folding>
-            <marker date="1490574818000" expanded="true" signature="2634:2694" ph="..." />
+            <marker date="1490583063000" expanded="true" signature="2634:2694" ph="..." />
           </folding>
         </state>
       </provider>
@@ -635,11 +627,6 @@
           <caret line="12" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/experience40.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/images/competitive.png">
@@ -655,10 +642,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/experience40.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/email.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/experienceyrs.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="54" column="33" lean-forward="true" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+        <state relative-caret-position="112">
+          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
           <folding />
         </state>
       </provider>
