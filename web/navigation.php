@@ -36,22 +36,28 @@
 
 </head>
 <body>
-
+<div class="fakeloader"></div>
 <!-- Navigation -->
 <header id="header">
     <div class="container-fluid-container">
         <nav class="navbar navbar-default">
             <div class="navbar-header">
                 <!-- Mobile Menu Button-->
-                <a href="#" class="js-nav-toggle nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"></a>
-                <a class="navbar-brand" href="index.php">
+                <a  class="js-nav-toggle nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+               <!-- <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span> <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>-->
+
+                <a class="navbar-brand" href="index">
                     <img src="images/castlemainlogo.png" class="main">
                     <img src="images/castlemainlogo.png" class="fix">
                 </a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="<?= $activelink == 'index'?'active':'' ?>"><a href="index"><span>About</span></a> </li>
+                    <li class="<?= ($activelink == '' || $activelink =='index')?'active':'' ?>"><a href="index"><span>About</span></a> </li>
                     <li class="<?= $activelink == 'services'?'active':'' ?>"><a href="services"><span>Services</span></a> </li>
                     <li class="<?= $activelink == 'approach'?'active':'' ?>"><a href="approach"><span>Our Approach</span></a></li>
                     <li class="<?= $activelink == 'contactus'?'active':'' ?>"><a href="contactus"><span>Contact Us</span></a> </li>

@@ -1104,8 +1104,11 @@ img.width-med {
     background-color: #4995cc;
 }
 @media screen and (max-width: 992px) {
-    #header #navbar .navbar-right{padding-bottom:0px; padding-left: 200px}
-    #header #navbar li a{padding-left:10px!important;padding-right:10px!important;font-size:15px}
+    #header #navbar .navbar-right{padding-bottom:0px; padding-left: 250px}
+    #header #navbar li a{padding-left:10px!important;padding-right:10px!important;font-size:15px; color: #fff!important;}
 }
 
 #footer{background:#2B2B2B;color:#8D8D8D;padding-bottom:1em}
+#navbar {
+    background-color: #0d468a!important;
+}
