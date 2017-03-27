@@ -29,7 +29,7 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <!-- Style -->
-    <link rel="stylesheet" href="css/style.css?v=2">
+    <link rel="stylesheet" href="css/style.css?v=3">
 
     <script src="js/modernizr-2.6.2.min.js"></script></a> </li>
 
@@ -51,8 +51,8 @@
                 </button>-->
 
                 <a class="navbar-brand" href="index">
-                    <img src="images/castlemainlogo.png" class="main">
-                    <img src="images/castlemainlogo.png" class="fix">
+                    <img src="images/castlemainLogo.png" class="main">
+                    <img src="images/castlemainLogo.png" class="fix">
                 </a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
