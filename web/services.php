@@ -30,7 +30,7 @@
 
 
                 <div class="col-lg-2 col-md-2 col-sm-2 valign-30">
-                    <img src="images/competeicon.png" class="img-circle text-center">
+                    <img src="images/competeicon.png" class="img-circle">
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 page-text">
                     <div class="section-header section-header-lg text-center">
@@ -43,10 +43,10 @@
 
 
                 <div class="col-lg-2 col-md-2 col-sm-2 valign-30">
-                    <img src="images/strategyicon.png" class="img-circle text-center">
+                    <img src="images/strategyicon.png" class="img-circle">
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-4 page-text">
-                    <div class="section-header section-header-lg text-center hidden-xs">
+                    <div class="section-header section-header-lg text-center">
                         Strategic
                     </div>
                     Castlemain aslo provide objective advise to minimise business risk, implement long term strategies and provide

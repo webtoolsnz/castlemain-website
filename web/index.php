@@ -60,7 +60,7 @@
                         CASTLEMAIN CAPITAL IS:
                     </div>
                     <div class="text-center">
-                        <img src="images/experience.png">
+                        <img src="images/experience40.png">
                     </div>
                     <div class="page-text">
                         <ul>
