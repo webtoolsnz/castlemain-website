@@ -51,8 +51,8 @@
                 </button>-->
 
                 <a class="navbar-brand" href="index">
-                    <img src="images/castlemainLogo.png" class="main">
-                    <img src="images/castlemainLogo.png" class="fix">
+                    <img src="images/castlemain_logo.png" class="main">
+                    <img src="images/castlemain_logo.png" class="fix">
                 </a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
