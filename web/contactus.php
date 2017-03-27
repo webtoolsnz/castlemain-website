@@ -28,7 +28,7 @@
         <div class="text-wrap">
 
             <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12 page-text-lg text-center">
+                <div class="col-lg-12 col-md-12 col-sm-12 page-text text-center">
                     Call us to discuss how we can assist you as a small to medium enterprise.
                     <div class="section-header section-header-lg ">CASTLEMAIN CAPITAL</div>
                     <div class="page-text-lg heading heading-lg-grn ">
