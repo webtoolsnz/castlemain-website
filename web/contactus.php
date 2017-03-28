@@ -76,8 +76,7 @@
                         <img src="images/addr.png" class="iconic-sm"><br/>
                         Level 1, Finance House,
                         <br/> 183 Montreal Street,
-                        <br/>Christchurch 8011, New zealand
-                        <br/> Christchurch 8140
+                        <br/> Christchurch 8013
 
                     </div>
                 </div>
