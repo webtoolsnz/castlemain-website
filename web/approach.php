@@ -140,7 +140,7 @@
                     To enable Castlemain Capital to provide these services it
                     has strategic connections with investors, banks, financing companies and valuers who can be properly
                     managed by us to ensure the advice provided is relevant, timely and cost efficient.<br/>
-                    We have a close association with Campbell McPherson Limited, Grant Samuel Limited and Strata Funding Limited
+                    We have a close association with Campbell McPherson Limited and Strata Funding Limited
                     which provide complimentary services enabling us to provide comprehensive advice to clients.
                 </div>
 
@@ -163,7 +163,7 @@
                         <ul>
                             <li> Industry Related Services : </li>
                             <a href="http://www.stratafunding.co.nz/">Strata Funding</a>
-                            <li>Property Related Services: </li>
+
                             <a href="http://www.campbellmacpherson.com/">Campbell Mcpherson</a>
 
                         </ul>
