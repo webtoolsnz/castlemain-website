@@ -162,7 +162,7 @@
                     <div class="page-text">
                         <ul>
                             <li> Industry Related Services : </li>
-                            <a href="http://www.stratafunding.co.nz/">Strata Funding</a>
+                            <a href="http://www.stratafunding.co.nz/">Strata Funding</a><br>
 
                             <a href="http://www.campbellmacpherson.com/">Campbell Mcpherson</a>
 
